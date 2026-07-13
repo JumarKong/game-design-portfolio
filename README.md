@@ -4,7 +4,8 @@
 
 ## 作品列表
 
-- [《足球总监》规则书](releases/latest/download/Football_Director_WinRate.pdf)
+- [《足球总监》规则书](releases/latest/download/Football_Director.pdf)
+- [《足球总监》胜率表](releases/latest/download/Football_Director_WinRate.pdf)
 - [《足球总监》VBA 源码（.xlsm）](releases/latest/download/Football_Director.xlsm)
 - [公主连结Re:Dive 属性版本数值拆解](releases/latest/download/Princess_Connect_Attribute.pdf)
 
