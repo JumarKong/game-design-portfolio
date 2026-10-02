@@ -1,13 +1,14 @@
 # game-design-portfolio
 
-数值策划求职作品集 | 西电数学硕
+数值策划作品集
 
 ## 作品列表
 
-- [《足球总监》规则书](https://github.com/JumarKong/game-design-portfolio/releases/latest/download/Football_Director.pdf)
-- [《足球总监》胜率表](https://github.com/JumarKong/game-design-portfolio/releases/latest/download/Football_Director_WinRate.pdf)
-- [《足球总监》VBA 源码（.xlsm）](https://github.com/JumarKong/game-design-portfolio/releases/latest/download/Football_Director.xlsm)
-- [公主连结Re:Dive 属性版本数值拆解](https://github.com/JumarKong/game-design-portfolio/releases/latest/download/Princess_Connect_Attribute.pdf)
+- [《足球总监》规则书V3.1]
+- [《足球总监》规则书V4.0]
+- [《足球总监》迭代日志]
+- [《足球总监》VBA 源码（.xlsm）]
+- [公主连结Re:Dive 属性版本数值拆解]
 
 ## 联系方式
 - 邮箱：13757153181@163.com
